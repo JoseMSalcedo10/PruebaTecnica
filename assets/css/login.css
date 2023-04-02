@@ -1,0 +1,32 @@
+
+body {
+    background-color: #EAEBF5 !important;
+    font-family: 'Calibri Light' !important;
+}
+
+.tituloLogin {
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.caja {
+    margin: 0% 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px;
+    background-color: #FEFEFE;
+    width: 40%;
+    height: 40%;
+    padding: 10% 0;
+  }
+
+  input{
+    margin-bottom: 10px !important;
+  }
+
+  .btnIngresar {
+    background-color: #102EEF;
+  }
